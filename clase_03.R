@@ -1,4 +1,4 @@
-# clase_03.R actualizada 17/3/26 - 20:18
+# clase_03.R actualizada 17/3/26 - 20:20
 
 rm(list = ls())
 options(scipen = 999)
