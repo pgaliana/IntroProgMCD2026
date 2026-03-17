@@ -15,3 +15,5 @@ Texto de nivel 2
 
 *Cursiva*
 
+Esto es una nueva línea agregada localmente en Windows.
+
